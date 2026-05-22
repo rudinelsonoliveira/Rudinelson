@@ -59,5 +59,6 @@ O foco do projeto é unir **tecnologia, educação e sustentabilidade**, proporc
 ---
 
 ## 🖼️ Exemplos e Screenshots
+**https://agronyx.com.br/materia/retrofit-no-agro-sustentabilidade/**
 
 > Aqui você pode adicionar imagens do site ou capturas de tela das funcionalidades:
